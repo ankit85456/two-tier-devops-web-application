@@ -1,7 +1,8 @@
-# DevOps Project Report: Automated CI/CD Pipeline for a 2-Tier Flask Application on AWS
+# DevOps Project Report: Automated CI/CD Pipeline for a Two Tier DevOps Web Application using Flask
 
-**Author:** Prashant Gohel
-**Date:** August 23, 2025
+Author: Ankit Kumar
+Date: 2026
+Project: Two Tier DevOps Web Application using Flask
 
 ---
 
